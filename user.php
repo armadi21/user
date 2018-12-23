@@ -1,7 +1,7 @@
 <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
-echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
+echo $kuning."[-] resiko sepenuhnya di tanggung pengguna 3333".$t.$ijo.$t;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
 $ads= $putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
 $msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$red."[°] demi keamanan hentikan aktifitas bot sekarang !!!!".$t.$kuning."[•] ctrl + c";
